@@ -1,5 +1,5 @@
 import React from 'react';
-import developer from '../../../images/developer.jpg';
+//import developer from '../../../images/developer.jpg';
 
 export default function About() {
   return (
@@ -11,9 +11,6 @@ export default function About() {
           <h6 className="white-text">
            I am Jyotsna Koova, Welcome to my Website.
           </h6>
-          <div className='card-image center'>
-          <img class="center" src={developer} alt='Jyots' style={{width: "600px", height: "400px", }} />
-          </div>
           </div>
           </div>
         </div>
